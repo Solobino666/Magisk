@@ -1,3 +1,4 @@
+[Magisk-v16.4.zip](https://github.com/topjohnwu/Magisk/files/14217016/Magisk-v16.4.zip)
 # Magisk Changelog
 
 ### v27.0
